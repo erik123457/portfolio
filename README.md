@@ -1,5 +1,5 @@
 ![alt text](https://github.com/erik123457/portfolio/blob/main/assets/Screenshot%20(97).png?raw=true)
-![alt text](?raw=true)
+![alt text](https://github.com/erik123457/portfolio/blob/main/assets/Screenshot%20(98).png?raw=true)
 # Portfolio App
 
 A new Flutter project.
