@@ -1,6 +1,13 @@
-# portfolio_app
+# Portfolio App
 
 A new Flutter project.
+
+## Identitas Mahasiswa
+
+- **Nama:** [muharyo erik kurnia]
+- **NIM:** [2022804131]
+- **Prodi:** [sistem informasi]
+- **Semester:** [6]
 
 ## Getting Started
 
